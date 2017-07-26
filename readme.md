@@ -6,6 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+[ ![Codeship Status for dmpinero/foro_laravel](https://app.codeship.com/projects/9fda12f0-541f-0135-fd18-160627fc0fd3/status?branch=master)](https://app.codeship.com/projects/235194)
 
 ## About Laravel
 
